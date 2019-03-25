@@ -4,7 +4,7 @@
     <packaging>pom</packaging>
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <modules>
         <module>pet-clinic-data</module>
@@ -37,8 +37,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:sambit04126/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-0.0.1</tag>
+        <developerConnection>scm:git:https://github.com/sambit04126/sfg-pet-clinic.git</developerConnection>        <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 
 </project>
